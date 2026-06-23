@@ -9,7 +9,7 @@
 
 ## Skills
 
-- OWASP Top 10
+- OWASP Top 10 
 - Burp Suite
 - Nmap
 - Wireshark
