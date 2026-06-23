@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Aadesh Singh
 
-<!--
-**aadeshsingh0209-ctrl/aadeshsingh0209-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Certified Ethical Hacker (CEH) – 88%
+- Certified Cybersecurity Analyst (CCA) – 85%
+- Aspiring VAPT Analyst
+- Interested in Web Application Security and Penetration Testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- OWASP Top 10
+- Burp Suite
+- Nmap
+- Wireshark
+- Nessus
+- SQL Injection
+- Cross-Site Scripting (XSS)
+- Network Enumeration
+
+## Platforms
+
+- PortSwigger Academy
+- TryHackMe
+- DVWA
+- CTF Challenges
+
+## Certifications
+
+- CEH (EC-Council)
+- CCA (Institute of Information Security)
